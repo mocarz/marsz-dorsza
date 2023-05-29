@@ -5,52 +5,15 @@
 Przeżyj przygodę podczas pływania na wodach otwartych, pieszej i rowerowej wycieczki! Zanurz się w orzeźwiających wodach, przemierzaj malownicze szlaki i pedałuj przez zapierające dech w piersiach krajobrazy. Ciesz się wolnością, pięknem i niezapomnianymi wspomnieniami. Przygotuj się na niezwykłą podróż, która odmłodzi Twojego ducha i sprawi, że zapragniesz więcej.
 
 ## Trasa wycieczki
-* Miejsce startu wycieczki jest w Redzie na peronie PKP.
-* Przejazd rowerami do Rewy, dystans 13 km
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ff1800"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-            [18.3471768, 54.6053818],[18.34768, 54.60592],[18.34769, 54.60643],[18.3475, 54.60745],[18.3476, 54.6078],[18.34826, 54.60818],[18.34922, 54.60876],[18.35041, 54.60898],[18.35211, 54.60918],[18.35362, 54.60933],[18.3569, 54.60965],[18.35858, 54.60982],[18.35983, 54.60994],[18.36112, 54.61032],[18.36183, 54.61038],[18.36224, 54.61028],[18.36284, 54.61003],[18.36321, 54.60994],[18.3635353, 54.6098382],[18.36513, 54.61011],[18.36907, 54.61053],[18.37586, 54.61126],[18.37892, 54.61157],[18.3832, 54.61202],[18.38638, 54.61236],[18.38937, 54.61266],[18.39054, 54.61282],[18.39163, 54.61268],[18.39618, 54.61134],[18.40067, 54.61],[18.40761, 54.60789],[18.41221, 54.60659],[18.41343, 54.60732],[18.41377, 54.60752],[18.41568, 54.60861],[18.41779, 54.60987],[18.42044, 54.61152],[18.42283, 54.61303],[18.42505, 54.61444],[18.42877, 54.61682],[18.43046, 54.61757],[18.4335, 54.61867],[18.43535, 54.61939],[18.43587, 54.62026],[18.43696, 54.62229],[18.43729, 54.62258],[18.44006, 54.62231],[18.44033, 54.62222],[18.44117, 54.62211],[18.4431, 54.622],[18.44405, 54.62186],[18.44454, 54.62205],[18.44554, 54.62245],[18.44627, 54.6227],[18.45004, 54.62393],[18.45096, 54.62425],[18.45148, 54.62647],[18.45313, 54.62689],[18.4551, 54.62724],[18.45554, 54.62725],[18.45573, 54.62712],[18.45584, 54.62707],[18.45629, 54.62699],[18.45852, 54.62698],[18.45926, 54.62689],[18.45976, 54.62672],[18.46115, 54.62624],[18.46471, 54.625],[18.46586, 54.62459],[18.4678, 54.62391],[18.4692, 54.62343],[18.46963, 54.62338],[18.46998, 54.62347],[18.47137, 54.62391],[18.47344, 54.62458],[18.47588, 54.62536],[18.47703, 54.62573],[18.4784216, 54.6262139],[18.4801, 54.62589],[18.48045, 54.62583],[18.48144, 54.62573],[18.48312, 54.62582],[18.48375, 54.62579],[18.48593, 54.62558],[18.48619, 54.62563],[18.48776, 54.62635],[18.48814, 54.62647],[18.48849, 54.62649],[18.4888299, 54.6264583],[18.48972, 54.62673],[18.49007, 54.62691],[18.49042, 54.62713],[18.49073, 54.62724],[18.49089, 54.62734],[18.49134, 54.62782],[18.49169, 54.62805],[18.49219, 54.62845],[18.49243, 54.62854],[18.49264, 54.62852],[18.49467, 54.62838],[18.49658, 54.62826],[18.49676, 54.62851],[18.4968, 54.62943],[18.49687, 54.63046],[18.49687, 54.63156],[18.49695, 54.63169],[18.49719, 54.6318],[18.49802, 54.632],[18.49848, 54.63205],[18.49938, 54.63207],[18.50147, 54.63214],[18.50522, 54.6324],[18.50686, 54.63255],[18.50783, 54.63263],[18.50816, 54.63263],[18.50916, 54.63251],[18.5091612, 54.632507]
-        ]
-      }
-    }
-  ]
-}
-```
-* Zostawiamy rowery w Rewie i taksówką wracamy do Redy
-* Jedziemy pociągiem z Redy to Kuźnicy
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#ff1800"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-            [18.50686, 54.63255],[18.50147, 54.63214],[18.49848, 54.63205],[18.49719, 54.6318],[18.49687, 54.63156],[18.4968, 54.62943],[18.49668, 54.62697],[18.496427, 54.6220905],[18.49626, 54.61869],[18.49603, 54.61446],[18.49604, 54.61275],[18.49587, 54.6115],[18.49572, 54.61088],[18.496253, 54.6082517],[18.49194, 54.60651],[18.48705, 54.60446],[18.48542, 54.60308],[18.4845507, 54.6021969],[18.4816, 54.60357],[18.47212, 54.60472],[18.44767, 54.60476],[18.42403, 54.60515],[18.42006, 54.60451],[18.41736, 54.6029],[18.41071, 54.59636],[18.40479, 54.59038],[18.40042, 54.586],[18.39819, 54.58194],[18.39781, 54.57938],[18.3974658, 54.578759],[18.39759, 54.57852],[18.39667, 54.57837],[18.39255, 54.57802],[18.38693, 54.57748],[18.38674, 54.57753],[18.38456, 54.57734],[18.37794, 54.57679],[18.37495, 54.57809],[18.36854, 54.5818],[18.36543, 54.58365],[18.36338, 54.58501],[18.36115, 54.58795],[18.35965, 54.58953],[18.35791, 54.59075],[18.35668, 54.59193],[18.35534, 54.59404],[18.35367, 54.59665],[18.35144, 54.60016],[18.35032, 54.60168],[18.34825, 54.60461],[18.34758, 54.60543],[18.34768, 54.60655],[18.34769, 54.60788],[18.34929, 54.60883],[18.34887, 54.61064],[18.34797, 54.61322],[18.34725, 54.61462],[18.34665, 54.6152],[18.34532, 54.61598],[18.34173, 54.6195],[18.339, 54.62151],[18.33863, 54.62237],[18.34049, 54.6245],[18.34199, 54.6268],[18.34304, 54.62742],[18.34406, 54.62872],[18.3446, 54.63002],[18.34411, 54.6319],[18.34452, 54.63291],[18.34503, 54.63439],[18.34541, 54.63665],[18.34641, 54.64026],[18.34857, 54.64269],[18.353, 54.64642],[18.35658, 54.64953],[18.36224, 54.65423],[18.36285, 54.65542],[18.36233, 54.65742],[18.36204, 54.6604],[18.36234, 54.66142],[18.36393, 54.66311],[18.36667, 54.66586],[18.37016, 54.66846],[18.37251, 54.67003],[18.37433, 54.67217],[18.3752, 54.67374],[18.37547, 54.67444],[18.37526, 54.67631],[18.37246, 54.68104],[18.37062, 54.684],[18.36889, 54.68695],[18.36892, 54.6882],[18.36965, 54.68908],[18.37499, 54.69337],[18.38143, 54.6986],[18.38815, 54.70415],[18.39041, 54.70597],[18.39352, 54.70875],[18.39382, 54.70897],[18.39392, 54.70902],[18.39396, 54.70911],[18.39392, 54.70918],[18.39403, 54.71058],[18.39313, 54.71396],[18.39235, 54.71712],[18.39202, 54.71941],[18.39281, 54.72159],[18.39301, 54.72239],[18.39293, 54.72604],[18.39322, 54.72994],[18.39371, 54.73281],[18.39385, 54.73491],[18.3924, 54.73743],[18.39126, 54.73898],[18.38926, 54.74107],[18.3883, 54.7433],[18.38671, 54.74763],[18.38544, 54.75112],[18.38532, 54.7517],[18.38549, 54.75212],[18.38563, 54.75222],[18.38574, 54.75227],[18.38578, 54.75234],[18.38576, 54.75242],[18.38566, 54.75259],[18.38576, 54.75301],[18.38689, 54.75383],[18.38973, 54.75516],[18.39531, 54.7576],[18.39645, 54.75856],[18.39698, 54.75996],[18.3975, 54.76133],[18.398, 54.76265],[18.39849, 54.76371],[18.39945, 54.76574],[18.40055, 54.76813],[18.40164, 54.77066],[18.40298, 54.77307],[18.40431, 54.77503],[18.40527, 54.77633],[18.40637, 54.77806],[18.40688, 54.78188],[18.40706, 54.78447],[18.40711, 54.78518],[18.4073, 54.78679],[18.40755, 54.78794],[18.40842, 54.78977],[18.40878, 54.78999],[18.40888, 54.79002],[18.40895, 54.79007],[18.40929, 54.79013],[18.41108, 54.78983],[18.4123, 54.78956],[18.41314, 54.78941],[18.41361, 54.78942],[18.41461, 54.78965],[18.41713, 54.7901],[18.42037, 54.79036],[18.4225, 54.79042],[18.42398, 54.78999],[18.42719, 54.78875],[18.44246, 54.78265],[18.44765, 54.78117],[18.45654, 54.7776],[18.4623, 54.77523],[18.46689, 54.77377],[18.47193, 54.77284],[18.47684, 54.77089],[18.48166, 54.76893],[18.4894, 54.76578],[18.49324, 54.76428],[18.49658, 54.76311],[18.49984, 54.76194],[18.50204, 54.76126],[18.50423, 54.76059],[18.50979, 54.75891],[18.51402, 54.75763],[18.51677, 54.75713],[18.51797, 54.75683],[18.5199, 54.75618],[18.5247, 54.75458],[18.52761, 54.75348],[18.53001, 54.75255],[18.53239, 54.75163],[18.53408, 54.75097],[18.53565, 54.75036],[18.537, 54.74984],[18.53872, 54.74917],[18.54064, 54.74843],[18.54305, 54.7475],[18.54729, 54.74584],[18.55047, 54.74457],[18.55556, 54.74253],[18.55975, 54.74087],[18.56513, 54.73932],[18.57302, 54.7371],[18.57659, 54.73597],[18.58019, 54.73541],[18.58046, 54.73527]
-        ]
-      }
-    }
-  ]
-}
-```
+* Miejsce startu wycieczki jest w Rewie na parkingu przy ul. Bursztynowej, gdzie dojeżdżamy samochodami razem z rowerami. Rowery zostawiamy w Rewie przymocowane do stojaków rowerowych w tym miejscu: 54.633974, 18.512818.
+* Jedziemy samochodami do Władysławowa
+* W Władysławowie zostawiamy jeden samochód i jedziemy dalej do Kuźnicy.
 * Z Kuźnicy płyniemy na Rybitwią Mieliznę, dystans około 1 km
 * Przemierzamy mieliznę pieszo, dystans około 7 km
 * Płyniemy z Rybitwiej Mielizny do Rewy, dystans około 4 km
 * Jedziemy rowerami do Władysławowa z przystankami na odpoczynek, dystans 30 km
+* Kierowcy wsiadają do samochodu zostawionego wcześniej w Władysławowie, jadą po drugi samochód do Kuźnicy i wracają do Władysławowa.
+* Wracamy z Władysławowa samochodami do domu
 ```geojson
 {
   "type": "FeatureCollection",
@@ -117,19 +80,19 @@ Zapasowe terminy:
 25.06.2023
 
 # Harmonogram wycieczki
-* 7:00 Zbiórka w Redzie na peronie PKP. Nie czekamy na spóźnialskich. O 7:00 przyjeżdża SKM od strony Gdyni.
-* 7:00 - 8:00 Przejazd rowerami do Rewy, mamy do przejechania 13 km. W Rewie zostawiamy rowery przypięte do stojaków rowerowych. Zabieramy ze sobą w dalszą podróż rzeczy na pływanie. Złożony kajak pneumatyczny niesiemy wspólnie.
-* 8:00 - 8:30 Wracamy taksówką do Redy. Przejazd na tej trasie oferuje m.in. firma FreeNow. Czas oczekiwania na taksówkę może wynieść nawet 20 minut, dlatego zamawiamy ją z odpowiednim wyprzedzeniem.
-* 8:52 - 9:36 Jedziemy pociągiem REGIO do Kuźnicy. Każdy z uczestników indywidualnie nabywa bilet na pociąg.
-* 9:36 - 9:55 Idziemy na plażę w Kuźnicy
-* 9:55 - 10:30 Przygotowujemy się do etapu pływackiego. Zakładamy pianki, nadmuchujemy bojki, pompujemy kajak. Rzeczy osobiste pakujemy do zwijanego szczelnego worka, który przymocowujemy do paska bojki asekuracyjnej.
+* 8:30 Spotykamy się w Rewie na parkingu samochodowym na ul. Bursztynowej.
+* 8:30 - 8:45 Przymocowujemy rowery do stojaków rowerowych zlokalizowanych w tym miejscu: 54.633974, 18.512818
+* 8:45 - 9:45 Jedziemy samochodami z Rewy do Kuźnicy. W Władysławowie zostawiamy jeden samochód.
+* 9:45 - 10:00 Parkujemy w Kuźnicy i idziemy na plażę.
+* 10:00 - 10:30 Przygotowujemy się do etapu pływackiego. Zakładamy pianki, nadmuchujemy bojki, pompujemy kajak. Rzeczy osobiste pakujemy do zwijanego szczelnego worka, który przymocowujemy do paska bojki asekuracyjnej.
 * 10:30 - 11:00 Płyniemy około 1 km na mieliznę. Płyniemy w grupie, wolno i nie ścigamy się by nie zakwasić mięśni.
 * 11:00 - 12:30 Idziemy mielizną 6 km. Osoba w kajaku płynie obok lub wspólnie niesiemy kajak. Zmieniamy się w transporcie kajaku według potrzeby.
 * 12:30 - 15:00 Płyniemy około 4 km do Rewy. W połowie drogi robimy przerwę na krótki odpoczynek, energetyczną przekąskę i picie.
 * 15:00 - 15:30 Zdejmujemy pianki, składamy kajak. Pakujemy nasze rzeczy do sakw rowerowych lub plecaka. Kajak mocujemy do bagażnika rowerowego.
 * 15:30 - 16:30 Przerwa na obiad w lokalnej restauracji. Sugerowany dorsz w celu podkreślenia morskiego charakteru wycieczki. :)
-* 16:30 - 19:00 Jedziemy rowerami do Władysławowa. Mamy możliwość skrócenia wycieczki wg potrzeb grupy i pojechanie tylko do Pucka. Jedziemy tempem rekreacyjnym i po drodze robimy liczne przerwy na relaks. Z Rewy można również dojechać do najbliższej stacji - Redy.
-* 19:10 Wracamy pociągiem z Władysławowa w stronę Gdyni.
+* 16:30 - 19:00 Jedziemy rowerami do Władysławowa. Jedziemy tempem rekreacyjnym i po drodze robimy liczne przerwy na relaks.
+* 19:00 - 19:30 Kierowcy jadą do Kuźnicy po samochód.
+* 19:30 - Parkujemy rowery na samochody i wracamy do domu.
 
 # Przygotowanie do wycieczki
 * Każdy z uczestników jest przygotowany kondycyjnie do przepłynięcia 5 km w wodach otwartych bez odpoczynku.
@@ -141,6 +104,7 @@ Zapasowe terminy:
 * Organizator sprawdza prognozę pogody w Rewie w serwisie Gurufocus.
 
 # Potrzebny sprzęt i wyposażenie
+* 2 samochody z możliwością przewiezienia rowerów. Samochody muszą być w stanie przewieźć wszystkie rowery uczestników.
 * rower
 * zapięcie do roweru
 * sakwy rowerowe lub plecak
@@ -163,16 +127,14 @@ Zapasowe terminy:
   * dowód osobisty
 
 # Reakcje na sytuacje nieplanowane
-* Uczestnik spóźni się na zbiórkę. W takiej sytuacji uczestnik nie będzie mógł uczestniczyć w etapie rowerowym i zostawia swój rower w Redzie lub na innej stacji. Następnie czeka na powrót grupy z Rewy i kontynuuje wspólnie z grupą dalszą podróż pociągiem z Redy do Kuźnicy. Po odbyciu etapu pływackiego uczestnik korzysta z komunikacji miejskiej aby dostać się do roweru, po czym wraca do domu.
-* Grupa spóźni się na pociąg z Redy do Kuźnicy. Odjazd kolejnego pociągu jest o godz. 9:25, pół godziny później. Cała dalsza wycieczka jest opóźniona o pół godziny względem harmonogramu, natomiast nie jest to problemem. Możemy przyspieszyć etap rowerowy lub wrócić późniejszym pociągiem do domu.
+* Uczestnik spóźni się na zbiórkę. Czekamy, nie mamy innego wyjścia.
 * Pneumatyczny kajak okazuje się nieszczelny. Wówczas próbujemy uszczelnić go łatkami.
 * Bojka pływacka uczestnika jest nieszczelna. Jedna osoba płynie kajakiem, więc mamy jedną zapasową.
 * Przed rozpoczęciem długiego etapu pływackiego zmieni się pogoda na niekorzystną. W tej sytuacji rezygnujemy z tego etapu i zawracamy do Kuźnicy.
 * Uczestnik nie może lub nie chce płynąć z Rybitwiej Mielizny do Rewy. W takie sytuacji może płynąć kajakiem. Może również odłączyć się od grupy i samodzielnie wrócić do Kuźnicy.
 * W trakcie długiego etapu pływackiego uczestnik nie może dalej płynąć. W tej sytuacji może zamienić się z osobą płynącą kajakiem lub chwycić się kajaku.
 * Podczas etapu pływackiego napotykamy silny prąd zatokowy. Wówczas płyniemy prostopadle do kierunku prądu. Nie siłujemy się z prądem.
-* Rowery zostawione w Rewie zostały skradzione. Po etapie pływackim wracamy komunikacją miejską lub taksówką do Gdyni.
-* Pociąg z Władysławowa w stronę Gdyni jest przepełniony i nie ma możliwości zabrania naszych rowerów. W tej sytuacji czekamy na następny pociąg (jeżdżą co około pół godziny) z nadzieją że uda się przewieźć rower. Godziny odjazdów późniejszych pociągów z Władysławowa do Gdyni: 19:34, 19:54, 20:26, 21:26, 22:07, 22:54. Możemy też pojechać rowerem do Redy i wsiąść w SKM.
+* Rowery zostawione w Rewie zostały skradzione. Po etapie pływackim podjeżdżamy do Redy, skąd wsiadamy do pociągu w stronę Władysławowa aby odebrać samochody.
 
 # Telefony alarmowe
 * Aplikacja Ratunek (preferowana opcja)
@@ -184,10 +146,7 @@ Na trasie wycieczki jest zasięg telefonii komórkowej wraz z dostępem do inter
 
 # Koszty
 * Udział w wycieczce jest bezpłatny
-* Koszty transportu:
-  * Dojazd na miejsce startu SKM-ką z Gdańska głównego - 12 zł
-  * Wspólny przejazd taksówką z Rewy od Redy - około 30 zł do podziału
-  * Pociąg REGIO z Władysławowa do Gdańska Głównego - 17,70 zł
+* Koszty paliwa
 * Obiad w nadmorskiej restauracji / barze
 
 # Atrakcje
